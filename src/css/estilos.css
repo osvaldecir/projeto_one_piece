@@ -37,7 +37,11 @@ main .personagem .imagem {
 
 .conteudo .nome-personagem {
     background-color: green;
-    color: #ffffff
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Secular One";
+
+
     
     }
     
